@@ -19,11 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VaueAndReferanceTypes", "Va
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{57F78B43-E856-4887-B321-A07F1D1064C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{7B689A00-B3A9-49E0-9C4C-49A55E68BAE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{7B689A00-B3A9-49E0-9C4C-49A55E68BAE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{4DB8F22E-B6EB-48CE-947D-B32467D5EFE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{4DB8F22E-B6EB-48CE-947D-B32467D5EFE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{31480C60-7B3E-4052-B2F4-408445975649}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{31480C60-7B3E-4052-B2F4-408445975649}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork1", "HomeWork1\HomeWork1.csproj", "{C26D100D-A05F-4F77-8BE2-AA51B682717F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{31480C60-7B3E-4052-B2F4-408445975649}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31480C60-7B3E-4052-B2F4-408445975649}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31480C60-7B3E-4052-B2F4-408445975649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C26D100D-A05F-4F77-8BE2-AA51B682717F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26D100D-A05F-4F77-8BE2-AA51B682717F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26D100D-A05F-4F77-8BE2-AA51B682717F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26D100D-A05F-4F77-8BE2-AA51B682717F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
